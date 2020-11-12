@@ -3,8 +3,8 @@
   "short_name": "Robin Hartmann",
   "description": "Homepage of Robin Hartmann",
   "lang": "en-US",
-  "theme_color": "#ff5722",
-  "background_color": "#ff5722",
+  "theme_color": "#dd4515",
+  "background_color": "#dd4515",
   "display": "fullscreen",
   "icons": [
     {
