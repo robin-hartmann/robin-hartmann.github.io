@@ -7,4 +7,4 @@
 | Font Family      | `Reem Kufi` |
 | Font Size        | `110`       |
 | Font Color       | `#fafafa`   |
-| Background Color | `#ff5722`   |
+| Background Color | `#dd4515`   |
