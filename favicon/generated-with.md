@@ -1,4 +1,4 @@
-# favicon.io/favicon-generator
+# [favicon.io/favicon-generator](https://favicon.io/favicon-generator)
 
 | Setting          | Value       |
 | ---------------- | ----------- |
