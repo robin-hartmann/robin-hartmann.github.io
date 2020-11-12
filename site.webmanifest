@@ -1,0 +1,21 @@
+{
+  "name": "Robin Hartmann | Allround Dev",
+  "short_name": "Robin Hartmann",
+  "description": "Homepage of Robin Hartmann",
+  "lang": "en-US",
+  "theme_color": "#ff5722",
+  "background_color": "#ff5722",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
