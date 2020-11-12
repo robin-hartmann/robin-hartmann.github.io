@@ -81,6 +81,7 @@ main > .tagline {
 main > .tagline span {
   font-family: 'Reem Kufi', sans-serif;
   font-weight: 500;
+  white-space: nowrap;
 }
 
 .icons-social i {
