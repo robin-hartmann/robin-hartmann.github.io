@@ -13,12 +13,14 @@ main {
   fill: #fafafa;
 }
 
-/* Typography */
-
-/* see https://stackoverflow.com/questions/9003969 */
-a {
-  text-decoration: none;
+a:active,
+a:focus {
+  outline: 0;
+  outline-style: none;
+  -moz-outline-style: none;
 }
+
+/* Typography */
 
 @media (min-width: 576px) {
   html {
@@ -52,6 +54,11 @@ a {
 
 .icons-social i {
   font-size: 3em;
+}
+
+/* see https://stackoverflow.com/questions/9003969 */
+a {
+  text-decoration: none;
 }
 
 /* Custom Styles */
