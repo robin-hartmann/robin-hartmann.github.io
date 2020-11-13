@@ -65,23 +65,25 @@ main {
   text-align: center;
 }
 
-main > .intro {
+main .intro * {
   font-family: 'Reem Kufi', sans-serif;
   font-size: 3.75em;
   font-weight: 600;
+  white-space: nowrap;
 }
 
-main > .tagline {
+main .tagline {
+  margin: 1.5rem 0;
+}
+
+main .tagline * {
   font-family: 'Roboto Mono', monospace;
   font-size: 1.25rem;
-  margin: 1.5rem 0;
-  font-weight: 100;
+  white-space: nowrap;
 }
 
-main > .tagline span {
+main .tagline .skills {
   font-family: 'Reem Kufi', sans-serif;
-  font-weight: 500;
-  white-space: nowrap;
 }
 
 .icons-social i {
