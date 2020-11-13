@@ -18,11 +18,11 @@ My personal homepage
 ## 👨‍💻 Authors
 
 - **Robin Hartmann** - [robin-hartmann](https://github.com/robin-hartmann)
+  - rework HTML and CSS
+    - minify CSS
   - migrate Font Awesome and Google Fonts from CDN to self-hosting
-  - simplify and minify CSS
   - improve compatibility of favicon
-  - add web app manifest
-  - rework tagline
+  - add web app manifest and meta tags for color
 
 ## 📃 License
 
