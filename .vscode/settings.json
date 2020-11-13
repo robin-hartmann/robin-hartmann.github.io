@@ -12,5 +12,9 @@
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
-  "files.eol": "\n"
+  "files.eol": "\n",
+  "prettier.endOfLine": "lf",
+  "prettier.htmlWhitespaceSensitivity": "css",
+  "prettier.printWidth": 80,
+  "prettier.singleQuote": false,
 }
