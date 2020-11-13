@@ -68,7 +68,7 @@ main {
 main .intro * {
   font-family: "Reem Kufi", sans-serif;
   font-size: 3.75em;
-  font-weight: 600;
+  font-weight: bold;
   white-space: nowrap;
 }
 
@@ -79,11 +79,13 @@ main .tagline {
 main .tagline * {
   font-family: "Roboto Mono", monospace;
   font-size: 1.25rem;
+  font-weight: bold;
   white-space: nowrap;
 }
 
 main .tagline .skills {
   font-family: "Reem Kufi", sans-serif;
+  font-weight: normal;
 }
 
 .icons-social i {
