@@ -13,13 +13,6 @@ main {
   fill: #fafafa;
 }
 
-a:active,
-a:focus {
-  outline: 0;
-  outline-style: none;
-  -moz-outline-style: none;
-}
-
 /* Typography */
 
 @media (min-width: 576px) {
@@ -52,16 +45,31 @@ a:focus {
   }
 }
 
-.icons-social i {
-  font-size: 3em;
-}
-
-/* see https://stackoverflow.com/questions/9003969 */
-a {
-  text-decoration: none;
-}
-
 /* Custom Styles */
+
+* {
+  /* see https://stackoverflow.com/a/29961714 */
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: transparent;
+}
+
+a {
+  /* see https://stackoverflow.com/questions/9003969 */
+  text-decoration: none;
+  /* see https://stackoverflow.com/a/11237968 */
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+a:active,
+a:focus {
+  -moz-outline-style: none;
+  outline-style: none;
+  outline: 0;
+}
 
 main {
   display: flex;
@@ -96,5 +104,6 @@ main .tagline .skills {
 }
 
 .icons-social i {
+  font-size: 3em;
   padding: 15px;
 }
