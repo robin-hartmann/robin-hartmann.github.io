@@ -20,9 +20,10 @@ My personal homepage
 - **Robin Hartmann** - [robin-hartmann](https://github.com/robin-hartmann)
   - rework HTML and CSS
     - minify CSS
-  - migrate Font Awesome and Google Fonts from CDN to self-hosting
+  - migrate Font Awesome and Google Fonts from CDN to self-hosted
   - improve compatibility of favicon
-  - add web app manifest and meta tags for color
+  - improve optimization for search engines
+  - expand color theme
 
 ## 📃 License
 
