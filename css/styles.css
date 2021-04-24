@@ -91,9 +91,16 @@ main .tagline {
 
 main .tagline * {
   font-family: "Roboto Mono", monospace;
-  font-size: 1.5rem;
   font-weight: bold;
   white-space: nowrap;
+}
+
+main .tagline .designation {
+  font-size: 1.8rem;
+}
+
+main .tagline .skills-array {
+  font-size: 1.5rem;
 }
 
 main .tagline .skills {
