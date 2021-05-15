@@ -17,4 +17,6 @@
   "prettier.htmlWhitespaceSensitivity": "css",
   "prettier.printWidth": 80,
   "prettier.singleQuote": false,
+  "xmlTools.splitAttributesOnFormat": true,
+  "xmlTools.enforcePrettySelfClosingTagOnFormat": true
 }
