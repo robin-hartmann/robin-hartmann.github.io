@@ -24,7 +24,7 @@ html {
 }
 
 .stats-github img {
-  width: 75vw;
+  width: 100vw;
 }
 
 @media screen and (min-width: 425px) {
@@ -37,7 +37,7 @@ html {
   }
 
   .stats-github img {
-    width: 60vw;
+    width: 70vw;
   }
 }
 
@@ -51,7 +51,7 @@ html {
   }
 
   .stats-github img {
-    width: 35vw;
+    width: 40vw;
   }
 }
 
@@ -65,7 +65,7 @@ html {
   }
 
   .stats-github img {
-    width: 25vw;
+    width: 30vw;
   }
 }
 
@@ -79,7 +79,7 @@ html {
   }
 
   .stats-github img {
-    width: 20vw;
+    width: 25vw;
   }
 }
 
