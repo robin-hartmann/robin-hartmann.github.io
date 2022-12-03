@@ -1,6 +1,6 @@
 /* Theme */
 
-main {
+.main {
   background: #dd4515;
   color: #fafafa;
 }
@@ -109,51 +109,43 @@ a:focus {
   outline: 0;
 }
 
-main {
+.main {
+  align-items: center;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  font-family: "Reem Kufi", sans-serif;
+  font-weight: normal;
   justify-content: center;
-  text-align: center;
   min-height: 100vh;
   padding: 3rem;
+  text-align: center;
 }
 
-main .intro * {
-  font-family: "Reem Kufi", sans-serif;
+.main .intro * {
   font-size: 4rem;
   font-weight: bold;
-  white-space: nowrap;
   line-height: 130%;
+  white-space: nowrap;
 }
 
-main .tagline {
+.main .tagline {
   padding: 2rem 0 1.5rem 0;
 }
 
-main .tagline * {
-  font-family: "Roboto Mono", monospace;
-  font-weight: bold;
+.main .tagline * {
   white-space: nowrap;
 }
 
-main .tagline .designation {
+.main .tagline .designation {
+  font-family: "Roboto Mono", monospace;
   font-size: 1.8rem;
-}
-
-main .tagline .skills-array {
-  font-size: 1.5rem;
-}
-
-main .tagline .skills {
-  font-family: "Reem Kufi", sans-serif;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .icons-social {
-  width: 22rem;
   display: flex;
   justify-content: space-between;
+  width: 22rem;
 }
 
 .icons-social i {
