@@ -5,12 +5,9 @@
   color: #fafafa;
 }
 
-.icons-social a {
-  color: #fafafa;
-}
-
+.icons-social a,
 .icons-social a svg path {
-  fill: #fafafa;
+  color: #fafafa;
 }
 
 /* Media Queries */
