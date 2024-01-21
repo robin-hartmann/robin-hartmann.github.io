@@ -1,13 +1,8 @@
 /* Theme */
 
-.main {
+* {
+  color: #fafafa;
   background: #dd4515;
-  color: #fafafa;
-}
-
-.icons-social a,
-.icons-social a svg path {
-  color: #fafafa;
 }
 
 /* Media Queries */
