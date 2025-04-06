@@ -17,6 +17,5 @@
   ],
   "theme_color": "#dd4515",
   "background_color": "#dd4515",
-  "display": "minimal-ui",
   "start_url": "index.html"
 }
