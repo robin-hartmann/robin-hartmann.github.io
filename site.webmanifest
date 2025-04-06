@@ -1,0 +1,22 @@
+{
+  "short_name": "Robin Hartmann",
+  "name": "Homepage of Robin Hartmann",
+  "description": "This is the homepage of Robin Hartmann, Software Architect",
+  "categories": ["business", "social"],
+  "icons": [
+    {
+      "src": "icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#dd4515",
+  "background_color": "#dd4515",
+  "display": "minimal-ui",
+  "start_url": "index.html"
+}
