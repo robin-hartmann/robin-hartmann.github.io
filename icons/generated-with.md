@@ -1,10 +1,11 @@
 # [favicon.io/favicon-generator](https://favicon.io/favicon-generator)
 
-| Setting          | Value       |
-| ---------------- | ----------- |
-| Text             | `R`         |
-| Background       | `Rounded`   |
-| Font Family      | `Reem Kufi` |
-| Font Size        | `110`       |
-| Font Color       | `#fafafa`   |
-| Background Color | `#dd4515`   |
+| Setting          | Value             |
+| ---------------- | ----------------- |
+| Text             | `R`               |
+| Background       | `Rounded`         |
+| Font Family      | `Reem Kufi`       |
+| Font Variant     | `Bold 700 Normal` |
+| Font Size        | `110`             |
+| Font Color       | `#FAFAFA`         |
+| Background Color | `#DD4515`         |
