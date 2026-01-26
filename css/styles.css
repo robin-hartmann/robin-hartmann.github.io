@@ -126,7 +126,7 @@ a:focus {
   outline: 0;
 }
 
-.main {
+.content {
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -138,22 +138,22 @@ a:focus {
   text-align: center;
 }
 
-.main .intro * {
+.content .intro * {
   font-size: 4rem;
   font-weight: bold;
   line-height: 130%;
   white-space: nowrap;
 }
 
-.main .tagline {
+.content .tagline {
   padding: 2rem 0 1.5rem 0;
 }
 
-.main .tagline * {
+.content .tagline * {
   white-space: nowrap;
 }
 
-.main .tagline .designation {
+.content .tagline .designation {
   font-family: "Roboto Mono", monospace;
   font-size: 1.8rem;
   font-weight: bold;
