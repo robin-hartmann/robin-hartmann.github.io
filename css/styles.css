@@ -1,8 +1,9 @@
 /* Theme */
 
 * {
-  color: #fafafa;
-  background: #dd4515;
+  --color: #fafafa;
+  --background-start: #ff5722;
+  --background-end: #d32f2f;
 }
 
 /* Media Queries */
@@ -83,6 +84,29 @@ html {
   -webkit-tap-highlight-color: transparent;
 }
 
+body {
+  animation: gradient-animation 5s ease-in-out infinite;
+  background: linear-gradient(
+    to left top,
+    var(--background-start),
+    var(--background-end)
+  );
+  background-size: 500% 500%;
+  color: var(--color);
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 0%;
+  }
+  50% {
+    background-position: 100% 100%;
+  }
+  100% {
+    background-position: 0% 0%;
+  }
+}
+
 a {
   /* see https://stackoverflow.com/questions/9003969 */
   text-decoration: none;
@@ -92,6 +116,7 @@ a {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+  color: var(--color);
 }
 
 a:active,

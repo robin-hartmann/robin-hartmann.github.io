@@ -7,5 +7,5 @@
 | Font Family      | `Reem Kufi`       |
 | Font Variant     | `Bold 700 Normal` |
 | Font Size        | `110`             |
-| Font Color       | `#FAFAFA`         |
-| Background Color | `#DD4515`         |
+| Font Color       | `#fafafa`         |
+| Background Color | `#ff5722`         |

@@ -6,6 +6,7 @@ My personal homepage
 
 - [dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers
 - [Material Palette](https://www.materialpalette.com/) - Material Design Color Palette Generator
+- [Animated Gradient Background Generator](https://animated-gradient-background-generator.netlify.app/) - Animated Gradient Background Generator
 - [Google Fonts](https://fonts.google.com/) - Making the web more beautiful, fast, and open through great typography
   - [Reem Kufi](https://fonts.google.com/specimen/Reem+Kufi) - Fatimid-style decorative Kufic typeface
   - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) - Monospaced addition to the Roboto type family
