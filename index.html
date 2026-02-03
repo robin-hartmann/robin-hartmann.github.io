@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" style="background-color: #d32f2f">
+<html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -190,11 +190,12 @@
 
       body {
         animation: gradient-animation 5s ease-in-out infinite;
-        background: linear-gradient(
-          to left top,
-          var(--background-start),
-          var(--background-end)
-        );
+        background: var(--background-end)
+          linear-gradient(
+            to left top,
+            var(--background-start),
+            var(--background-end)
+          );
         background-size: 500% 500%;
         color: var(--color);
       }
